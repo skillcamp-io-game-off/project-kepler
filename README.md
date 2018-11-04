@@ -6,5 +6,7 @@ The search for a habitable planet.
 ```bash
 npm install
 npm run start-dev
+
+// Available on localhost:8000
 ```
 
